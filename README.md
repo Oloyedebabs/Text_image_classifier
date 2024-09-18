@@ -1,1 +1,1 @@
-# Text_image_classifier
+# Text_image_recognition
